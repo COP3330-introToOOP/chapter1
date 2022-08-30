@@ -1,6 +1,6 @@
 /*
                     Carlos Theran
-                      COOP 3330
+                      COOP 3330 - 3:30PM to 4:45PM
     This program finds the roots of a quadratic equation                  
 */
 #include <iostream> // Library is use for cin and cout
